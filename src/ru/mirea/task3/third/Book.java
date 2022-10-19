@@ -1,4 +1,4 @@
-/*
+
 package ru.mirea.task3.third;
 
 public class Book {
@@ -6,7 +6,6 @@ public class Book {
     private String author;
     private int year;
 
-    //для домашних котов
     public Book() {
         name = "Sprut";
         author = "Frank Norris";
@@ -37,6 +36,3 @@ public class Book {
         return year;
     }
     }
-
-
- */

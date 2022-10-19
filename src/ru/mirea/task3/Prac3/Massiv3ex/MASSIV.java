@@ -1,4 +1,4 @@
-/*
+
 package ru.mirea.task3.Prac3.Massiv3ex;
 
 public class MASSIV {
@@ -23,4 +23,3 @@ public class MASSIV {
     }
 }
 
- */

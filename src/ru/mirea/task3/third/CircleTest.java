@@ -1,4 +1,4 @@
-/*
+
 package ru.mirea.task3.third;
 
 public class CircleTest {
@@ -18,5 +18,3 @@ public class CircleTest {
         }
     }
 
-
- */

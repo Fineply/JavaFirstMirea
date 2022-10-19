@@ -1,4 +1,4 @@
-/*
+
 package ru.mirea.task2.second;
 
 import java.lang.*;
@@ -12,5 +12,3 @@ public class Dogs {
         d3.intoHumanAge();
     }
 }
-
- */

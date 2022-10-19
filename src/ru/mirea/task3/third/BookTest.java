@@ -1,4 +1,4 @@
-/*
+
 package ru.mirea.task3.third;
 
 public class BookTest {
@@ -18,4 +18,3 @@ public class BookTest {
     }
 }
 
- */

@@ -1,4 +1,4 @@
-/*
+
 package ru.mirea.task3.third;
 
 public class Circle { // Save as "Circle.java"
@@ -29,5 +29,3 @@ public class Circle { // Save as "Circle.java"
         return radius*radius*Math.PI;
     }
 }
-
- */

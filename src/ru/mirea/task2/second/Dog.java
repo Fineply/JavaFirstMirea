@@ -1,4 +1,4 @@
-/*
+
 package ru.mirea.task2.second;
 
 import java.lang.*;
@@ -40,5 +40,3 @@ public class Dog {
         System.out.println(name+"'s age in human years is "+age*7+" years");
     }
 }
-
- */

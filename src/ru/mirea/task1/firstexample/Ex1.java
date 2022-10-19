@@ -42,16 +42,16 @@ public class Ex1 {
     }
 
 
-        public static void sort2(){
-            int[] array = {2,6,5,3,2,5,6};
-            int sum=0;
-            int i=0;
-            do{
+        public static void sort2() {
+            int[] array = {2, 6, 5, 3, 2, 5, 6};
+            int sum = 0;
+            for (int i = 0; i < array.length; i++)
+            {
                 sum += array[i];
-                i++;
-            }while(i< array.length);
+            }
             System.out.println("SUMMA " + sum);
         }
+
 
 
 

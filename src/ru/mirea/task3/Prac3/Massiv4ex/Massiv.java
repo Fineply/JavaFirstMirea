@@ -1,4 +1,4 @@
-/*
+
 package ru.mirea.task3.Prac3.Massiv4ex;
 import java.util.Arrays;
 import java.util.Scanner;
@@ -46,5 +46,3 @@ import java.util.Scanner;
         }
     }
 
-
- */

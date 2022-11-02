@@ -1,4 +1,4 @@
-/*
+
 package ru.mirea.task3.Prac3.ValueConvert;
 
 import java.util.Locale;
@@ -29,5 +29,3 @@ public class Convert {
         System.out.println("Денежная единица в Итальянской локали: " + numberFormat9.format(number*73.10));
     }
 }
-
- */

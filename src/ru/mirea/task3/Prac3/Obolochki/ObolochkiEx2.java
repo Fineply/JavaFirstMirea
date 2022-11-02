@@ -1,25 +1,6 @@
-/*
 package ru.mirea.task3.Prac3.Obolochki;
-public class Obolochki {
-    public static void main(String[] args) {
-        Double double1 = Double.valueOf("4.6");
-        System.out.println(double1);
-    }
-}
 
-package ru.mirea.task3.Prac3.Obolochki;
-import static java.lang.Double.parseDouble;
-
-public class Obolochka {
-    public static void main(String[] args) {
-        String str="30";
-        String d = Double.toString(3.14);
-        System.out.println(d);
-    }
-}
-
-package ru.mirea.task3.Prac3.Obolochki;
-public class Obolochki {
+public class ObolochkiEx2 {
     public static void main(String[] args) {
         double a = 36.575;
         int b = (int) a;
@@ -44,4 +25,3 @@ public class Obolochki {
     }
 }
 
- */

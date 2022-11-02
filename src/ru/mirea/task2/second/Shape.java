@@ -1,6 +1,6 @@
-/*
+
 package ru.mirea.task2.second;
-public class shape {
+public class Shape {
     public static void main(String[] args) {
         Circle person = new Circle(5,"Red");
         Triangle per = new Triangle(10,5);
@@ -65,4 +65,3 @@ class Square {
     }
 }
 
- */

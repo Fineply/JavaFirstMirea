@@ -1,12 +1,10 @@
-/*
+
 package ru.mirea.task2.second;
 
 public class Book {
     String name;
     String author;
     int year;
-
-    //для домашних котов
     public Book(String name, String author,int year) {
         this.name = name;
         this.author = author;
@@ -32,5 +30,3 @@ public class Book {
         System.out.println(c);
     }
 }
-
- */

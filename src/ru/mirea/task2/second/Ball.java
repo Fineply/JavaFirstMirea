@@ -1,10 +1,9 @@
-/*
+
 package ru.mirea.task2.second;
 public class Ball {
     String color;
     String Company;
 
-    //для домашних котов
     public Ball(String color, String Company) {
         this.color = color;
         this.Company = Company;
@@ -28,5 +27,3 @@ public class Ball {
         System.out.println(ba);
     }
 }
-
- */

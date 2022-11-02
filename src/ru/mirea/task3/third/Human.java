@@ -1,4 +1,4 @@
-/*
+
 package ru.mirea.task3.third;
 
 public class Human{
@@ -6,7 +6,7 @@ public class Human{
         String leg;
         String hand;
 
-        //для домашних котов
+
         public Human(String head, String leg,String hand) {
             this.head = head;
             this.leg = leg;
@@ -30,5 +30,3 @@ public class Human{
         }
     }
 
-
- */

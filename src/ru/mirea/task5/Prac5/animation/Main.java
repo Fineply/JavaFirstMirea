@@ -1,4 +1,4 @@
-package ru.mirea.task5.Prac5;
+package ru.mirea.task5.Prac5.animation;
 
 import javax.swing.ImageIcon;
 import javax.swing.JFrame;
